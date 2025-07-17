@@ -45,7 +45,7 @@
     animation: scarfWave2 5s infinite ease-in-out;
 }
 
-/* @keyframes scarfWave1 {
+ @keyframes scarfWave1 {
     0% {
         d: path('M 0 50 C 500 10, 500 10, 1000 50 C 1500 90, 1500 90, 2000 50');
     }
@@ -76,16 +76,16 @@
     100% {
         d: path('M 0 50 C 500 90, 500 90, 1000 50 C 1500 10, 1500 10, 2000 50');
     }
-} */
+} 
 
 /* Add subtle overall movement */
-/* .wave-line.line1 {
+ .wave-line.line1 {
     animation: scarfFloat1 18s infinite ease-in-out;
 }
 
 .wave-line.line2 {
     animation: scarfFloat2 4s infinite ease-in-out;
-} */
+} 
 
 @keyframes scarfFloat1 {
     0%, 100% { 
